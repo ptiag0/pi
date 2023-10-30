@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/style.css">
+    <title>Document</title>
+
+
+    <body>
+    <div id="menu">
+        <img src="images/aluno.jpg" alt="Foto do Aluno">
+        <h2>Israel</h2>
+        <ul>
+            <li><a href="#">Feed</a></li>
+            <li><a href="#">Central do Aluno</a></li>
+            <li><a href="#">Eventos</a></li>
+        </ul>
+    </div>
+    <div class="container">
+        <div class="headlines">
+            <div class="headline">
+                <h2>Computação e Design: uma parceria importante nos projetos para experiência do usuário </h2>
+                <img src="imagem" alt="Imagem 1">
+            </div>
+            <div class="headline">
+                <h2>Minicurso: Api Rest com Kotlin e Spring Boot </h2>
+                <img src="imagem" alt="Imagem 2">
+            </div>
+            <div class="headline">
+                <h2>Minicurso: Criando um Projeto Angular SSR</h2>
+                <img src="imagem" alt="Imagem 3">
+            </div>
+            <div class="headline">
+                <h2>Palestra: Desafios de iniciar uma empresa no setor de tecnologia</h2>
+                <img src="imagem" alt="Imagem 4">
+            </div>
+        </div>
+    
+            </div>
+        </div>
+    </div>
